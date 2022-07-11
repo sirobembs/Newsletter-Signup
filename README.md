@@ -29,3 +29,7 @@ Used the Mailchimp's API
 # After sign up
 User's data gets added on the mailchimp's server
 The data can be used to send monthly emails
+
+# Link to Home Page
+The page was hosted using the heroku server,
+https://blooming-river-28219.herokuapp.com/
